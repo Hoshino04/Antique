@@ -1,2 +1,3 @@
 # Antique
+cd Antique
 
